@@ -1,5 +1,6 @@
 package stepdefinitions;
 
+import driverFactory.DriverFactory;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -33,7 +34,7 @@ public class Registersteps {
 
 	@When("The user enters invalid username")
 	public void the_user_enters_invalid_username() throws Exception {
-		Thread.sleep(1000);
+		
 		regpage.invalidusernameonly();
 		regpage.registerclick();
 		
@@ -49,9 +50,9 @@ public class Registersteps {
 
 	@When("The user enters valid username and invalid password")
 	public void the_user_enters_valid_username_and_invalid_password() throws Exception {
-		Thread.sleep(1000);
+		
 		regpage.invalidpassword();
-		Thread.sleep(1000);
+
 		regpage.registerclick();
 		
 		regpage.takescreenshot("Invalidpassword.png");
@@ -86,7 +87,7 @@ public class Registersteps {
 		regpage.validdata();
 		regpage.registerclick();
 		regpage.takescreenshot("reg_success.png");
-		Thread.sleep(1000);
+	
 	}
 
 	@Then("The user should be redirected to Homepage with New Account Created")
@@ -97,6 +98,7 @@ public class Registersteps {
 	@Then("User signs out from the account")
 	public void user_signs_out_from_the_account() {
 	    regpage.signout();
+	    DriverFactory.closedriver();
 	}
 
 	@Given("The user opens Register Page for Invalid username")

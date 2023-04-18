@@ -1,5 +1,8 @@
 package pageobjects;
 
+
+
+import org.apache.commons.lang.RandomStringUtils;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -71,16 +74,18 @@ public class Registerpage {
 	   	password.sendKeys(excelpassword);
 	   	String excelconfirmpassword=RER.getregisterconfirmpassword(4); 	
 	   	confirmpassword.sendKeys(excelconfirmpassword);
-	   Thread.sleep(2000);	
+	
 	   }
 	public void validdata() throws Exception {
-		//String excelusername=RER.getregisterusername(5); 	
-	   	username.sendKeys("regis134");
-	  // 	String excelpassword=RER.getregisterpassword(5); 	
+		
+		
+		String s = RandomStringUtils.randomAlphanumeric(6); 
+		username.sendKeys(s);
+	 
 	   	password.sendKeys("pwdcheck1234");
-	   //	String excelconfirmpassword=RER.getregisterconfirmpassword(5); 	
+	  
 	   	confirmpassword.sendKeys("pwdcheck1234");
-	   	Thread.sleep(1000);	
+		
 	   }
 	public void signout() {
 		Signout.click();

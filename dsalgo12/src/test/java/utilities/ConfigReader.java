@@ -37,4 +37,19 @@ public class ConfigReader
 			throw new RuntimeException("Homeurl not available in the Config.properties file.");
 		
 	}
+	public static String getLoginPage() {
+		String loginurl = prop.getProperty("loginurl");
+		if (loginurl != null)
+			return loginurl;
+		else
+			throw new RuntimeException("loginurl not available in the Config.properties file.");
+		
+	}
+	public static String getarrayprevious() {
+		String arraybackurl = prop.getProperty("arraybackurl");
+		if (arraybackurl != null)
+			return arraybackurl;
+		else
+			throw new RuntimeException("This url not available in the Config.properties file.");
+	}
 }
