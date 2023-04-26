@@ -3,6 +3,8 @@ package appHooks;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 
+
+
 import java.util.Properties;
 
 import org.openqa.selenium.OutputType;
@@ -22,37 +24,33 @@ import utilities.ConfigReader;
 import utilities.LoggerLoad;
 
 
+
 public class ApplicationHooks {
-	private  DriverFactory driverFactory;
-	private  WebDriver driver;
-	private  ConfigReader configReader;
+	private static  DriverFactory driverFactory;
+	private static  WebDriver driver;
+	private static  ConfigReader configReader;
 	static Properties prop;
 	
-
-
-	@Before(order=0)
-	public void getProperty()
-	{
-		configReader=new ConfigReader();
-		prop=configReader.init_pop();
-	}
-
-	@Before(order=1)
-	public  void lauchBrowser()
-	{
+	@BeforeAll
+	public static void before() throws Throwable {
 		
+		try {
+			configReader=new ConfigReader();
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		prop=configReader.init_pop();
 		String browserName=prop.getProperty("browser");
 		driverFactory=new DriverFactory();
 		driver=driverFactory.init_driver(browserName);
-	}
-	
-	/*@AfterAll
-	public void quitbrowser()
-	{
-		driver.quit();
+		LoggerLoad.info("Test is running on "+browserName);
 		
-	}*/
 	
+		LoggerLoad.info("Driver is Intialized");
+	}
+
+
 	@AfterMethod
 	@After(order=1)
 	public void tearDown(Scenario scenario)
@@ -69,3 +67,9 @@ public class ApplicationHooks {
 	
 	
 }
+
+
+
+	
+	
+

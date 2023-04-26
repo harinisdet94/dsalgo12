@@ -4,7 +4,8 @@ import java.util.Properties;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
 
 import driverFactory.DriverFactory;
 
@@ -22,7 +23,7 @@ public class SignInPage {
 	private By password=By.id("id_password");
 	private By loginbtn=By.xpath("//input[@value='Login']");
 	
-		
+	@FindBy (xpath = "//a[@href='/logout\']") WebElement Signout;
 	public SignInPage(WebDriver driver)
 	{
 		this.driver=driver;
@@ -46,4 +47,8 @@ public class SignInPage {
 	{
 		driver.findElement(loginbtn).click();
 	}
+	public void signout() {
+		Signout.click();
+	}
+
 }

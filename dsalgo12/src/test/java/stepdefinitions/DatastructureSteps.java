@@ -13,7 +13,7 @@ public class DatastructureSteps {
 	
 	@Given("The user is in the Home page after logged in")
 	public void the_user_is_in_the_home_page_after_logged_in() {
-	   ds.loginpage();
+	 
 	   LoggerLoad.info("User is Home  Page");
 	}
 

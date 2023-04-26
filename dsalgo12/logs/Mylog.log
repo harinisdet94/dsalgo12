@@ -252,3 +252,343 @@
 [INFO ] 2023-04-18 16:29:26.381 [main] LoggerLoad - User is trying with Invalid confirm pwd
 [INFO ] 2023-04-18 16:29:37.151 [main] LoggerLoad - User opens valid credentials
 [INFO ] 2023-04-18 16:29:38.521 [main] LoggerLoad - User successfully created New Account
+[INFO ] 2023-04-18 17:09:06.092 [main] LoggerLoad - Test is running on chrome
+[INFO ] 2023-04-18 17:09:15.174 [main] LoggerLoad - Driver is Intialized
+[INFO ] 2023-04-18 17:09:17.801 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-18 17:09:18.100 [main] LoggerLoad - User redirects to array Page
+[INFO ] 2023-04-18 17:09:18.242 [main] LoggerLoad - User is array phython Page
+[INFO ] 2023-04-18 17:09:19.500 [main] LoggerLoad - User runs code successfully
+[INFO ] 2023-04-18 17:09:20.171 [main] LoggerLoad - User redirects to practice qns search array Page
+[INFO ] 2023-04-18 17:09:21.051 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-18 17:09:21.273 [main] LoggerLoad - User is on Data Structure Introduction Page
+[INFO ] 2023-04-18 17:09:21.301 [main] LoggerLoad - User is on Data Structure Introduction Page after login
+[INFO ] 2023-04-18 17:09:21.530 [main] LoggerLoad - User is on Data Structure Time Complexity
+[INFO ] 2023-04-18 17:09:24.091 [main] LoggerLoad - data structure phython code run success
+[INFO ] 2023-04-18 17:09:26.785 [main] LoggerLoad - User is on home page
+[INFO ] 2023-04-18 17:09:47.169 [main] LoggerLoad - User opens with Invalid username
+[INFO ] 2023-04-18 17:09:59.558 [main] LoggerLoad - User opens with Invalid password
+[INFO ] 2023-04-18 17:10:09.686 [main] LoggerLoad - User opens with Invalid confirm pwd
+[INFO ] 2023-04-18 17:10:15.797 [main] LoggerLoad - User opens valid credentials
+[INFO ] 2023-04-18 17:10:33.938 [main] LoggerLoad - Test is running on chrome
+[INFO ] 2023-04-18 17:10:38.819 [main] LoggerLoad - Driver is Intialized
+[INFO ] 2023-04-18 17:10:41.785 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-18 17:10:42.114 [main] LoggerLoad - User redirects to array Page
+[INFO ] 2023-04-18 17:10:42.289 [main] LoggerLoad - User is array phython Page
+[INFO ] 2023-04-18 17:10:43.931 [main] LoggerLoad - User runs code successfully
+[INFO ] 2023-04-18 17:10:44.621 [main] LoggerLoad - User redirects to practice qns search array Page
+[INFO ] 2023-04-18 17:10:45.485 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-18 17:10:45.719 [main] LoggerLoad - User is on Data Structure Introduction Page
+[INFO ] 2023-04-18 17:10:45.758 [main] LoggerLoad - User is on Data Structure Introduction Page after login
+[INFO ] 2023-04-18 17:10:46.018 [main] LoggerLoad - User is on Data Structure Time Complexity
+[INFO ] 2023-04-18 17:10:48.538 [main] LoggerLoad - data structure phython code run success
+[INFO ] 2023-04-18 17:10:49.436 [main] LoggerLoad - User is on home page
+[INFO ] 2023-04-18 17:11:06.487 [main] LoggerLoad - User opens with Invalid username
+[INFO ] 2023-04-18 17:11:08.897 [main] LoggerLoad - User opens with Invalid password
+[INFO ] 2023-04-18 17:11:09.010 [main] LoggerLoad - User opens with Invalid confirm pwd
+[INFO ] 2023-04-18 17:11:09.062 [main] LoggerLoad - User opens valid credentials
+[INFO ] 2023-04-18 17:13:41.337 [main] LoggerLoad - Test is running on chrome
+[INFO ] 2023-04-18 17:13:46.223 [main] LoggerLoad - Driver is Intialized
+[INFO ] 2023-04-18 17:13:47.813 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-18 17:13:48.132 [main] LoggerLoad - User redirects to array Page
+[INFO ] 2023-04-18 17:13:48.258 [main] LoggerLoad - User is array phython Page
+[INFO ] 2023-04-18 17:13:49.582 [main] LoggerLoad - User runs code successfully
+[INFO ] 2023-04-18 17:13:50.274 [main] LoggerLoad - User redirects to practice qns search array Page
+[INFO ] 2023-04-18 17:13:51.146 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-18 17:13:51.381 [main] LoggerLoad - User is on Data Structure Introduction Page
+[INFO ] 2023-04-18 17:13:51.437 [main] LoggerLoad - User is on Data Structure Introduction Page after login
+[INFO ] 2023-04-18 17:13:51.678 [main] LoggerLoad - User is on Data Structure Time Complexity
+[INFO ] 2023-04-18 17:13:54.208 [main] LoggerLoad - data structure phython code run success
+[INFO ] 2023-04-18 17:13:54.934 [main] LoggerLoad - User is on home page
+[INFO ] 2023-04-18 17:14:15.559 [main] LoggerLoad - User opens with Invalid username
+[INFO ] 2023-04-18 17:14:28.005 [main] LoggerLoad - User opens with Invalid password
+[INFO ] 2023-04-18 17:14:38.118 [main] LoggerLoad - User opens with Invalid confirm pwd
+[INFO ] 2023-04-18 17:14:48.246 [main] LoggerLoad - User opens valid credentials
+[INFO ] 2023-04-18 17:19:41.127 [main] LoggerLoad - Test is running on chrome
+[INFO ] 2023-04-18 17:19:48.237 [main] LoggerLoad - Driver is Intialized
+[INFO ] 2023-04-18 17:19:50.091 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-18 17:19:50.366 [main] LoggerLoad - User redirects to array Page
+[INFO ] 2023-04-18 17:19:50.503 [main] LoggerLoad - User is array phython Page
+[INFO ] 2023-04-18 17:19:51.984 [main] LoggerLoad - User runs code successfully
+[INFO ] 2023-04-18 17:19:52.685 [main] LoggerLoad - User redirects to practice qns search array Page
+[INFO ] 2023-04-18 17:19:53.596 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-18 17:19:53.893 [main] LoggerLoad - User is on Data Structure Introduction Page
+[INFO ] 2023-04-18 17:19:53.945 [main] LoggerLoad - User is on Data Structure Introduction Page after login
+[INFO ] 2023-04-18 17:19:54.198 [main] LoggerLoad - User is on Data Structure Time Complexity
+[INFO ] 2023-04-18 17:19:56.765 [main] LoggerLoad - data structure phython code run success
+[INFO ] 2023-04-18 17:19:57.492 [main] LoggerLoad - User is on home page
+[INFO ] 2023-04-18 17:20:18.878 [main] LoggerLoad - User opens with Invalid username
+[INFO ] 2023-04-18 17:20:31.318 [main] LoggerLoad - User opens with Invalid password
+[INFO ] 2023-04-18 17:20:41.430 [main] LoggerLoad - User opens with Invalid confirm pwd
+[INFO ] 2023-04-18 17:20:51.568 [main] LoggerLoad - User opens valid credentials
+[INFO ] 2023-04-18 17:27:31.170 [main] LoggerLoad - Test is running on chrome
+[INFO ] 2023-04-18 17:27:36.528 [main] LoggerLoad - Driver is Intialized
+[INFO ] 2023-04-18 17:27:40.020 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-18 17:27:40.381 [main] LoggerLoad - User redirects to array Page
+[INFO ] 2023-04-18 17:27:40.516 [main] LoggerLoad - User is array phython Page
+[INFO ] 2023-04-18 17:27:43.536 [main] LoggerLoad - User runs code successfully
+[INFO ] 2023-04-18 17:27:44.262 [main] LoggerLoad - User redirects to practice qns search array Page
+[INFO ] 2023-04-18 17:27:45.197 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-18 17:27:45.463 [main] LoggerLoad - User is on Data Structure Introduction Page
+[INFO ] 2023-04-18 17:27:45.500 [main] LoggerLoad - User is on Data Structure Introduction Page after login
+[INFO ] 2023-04-18 17:27:45.762 [main] LoggerLoad - User is on Data Structure Time Complexity
+[INFO ] 2023-04-18 17:27:48.329 [main] LoggerLoad - data structure phython code run success
+[INFO ] 2023-04-18 17:27:49.180 [main] LoggerLoad - User is on home page
+[INFO ] 2023-04-18 17:28:10.642 [main] LoggerLoad - User opens with Invalid username
+[INFO ] 2023-04-18 17:28:23.120 [main] LoggerLoad - User opens with Invalid password
+[INFO ] 2023-04-18 17:28:33.243 [main] LoggerLoad - User opens with Invalid confirm pwd
+[INFO ] 2023-04-18 17:28:43.319 [main] LoggerLoad - User opens valid credentials
+[INFO ] 2023-04-18 17:32:10.140 [main] LoggerLoad - Test is running on chrome
+[INFO ] 2023-04-18 17:32:17.343 [main] LoggerLoad - Driver is Intialized
+[INFO ] 2023-04-18 17:32:19.979 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-18 17:32:20.312 [main] LoggerLoad - User redirects to array Page
+[INFO ] 2023-04-18 17:32:20.488 [main] LoggerLoad - User is array phython Page
+[INFO ] 2023-04-18 17:32:22.237 [main] LoggerLoad - User runs code successfully
+[INFO ] 2023-04-18 17:32:22.923 [main] LoggerLoad - User redirects to practice qns search array Page
+[INFO ] 2023-04-18 17:32:23.878 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-18 17:32:24.124 [main] LoggerLoad - User is on Data Structure Introduction Page
+[INFO ] 2023-04-18 17:32:24.153 [main] LoggerLoad - User is on Data Structure Introduction Page after login
+[INFO ] 2023-04-18 17:32:24.495 [main] LoggerLoad - User is on Data Structure Time Complexity
+[INFO ] 2023-04-18 17:32:27.051 [main] LoggerLoad - data structure phython code run success
+[INFO ] 2023-04-18 17:32:27.818 [main] LoggerLoad - User is on home page
+[INFO ] 2023-04-18 17:32:51.824 [main] LoggerLoad - User opens with Invalid username
+[INFO ] 2023-04-18 17:33:04.443 [main] LoggerLoad - User opens with Invalid password
+[INFO ] 2023-04-18 17:33:14.550 [main] LoggerLoad - User opens with Invalid confirm pwd
+[INFO ] 2023-04-18 17:33:24.648 [main] LoggerLoad - User opens valid credentials
+[INFO ] 2023-04-18 17:34:12.507 [main] LoggerLoad - Test is running on chrome
+[INFO ] 2023-04-18 17:34:20.008 [main] LoggerLoad - Driver is Intialized
+[INFO ] 2023-04-18 17:34:22.332 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-18 17:34:22.606 [main] LoggerLoad - User redirects to array Page
+[INFO ] 2023-04-18 17:34:22.759 [main] LoggerLoad - User is array phython Page
+[INFO ] 2023-04-18 17:34:24.469 [main] LoggerLoad - User runs code successfully
+[INFO ] 2023-04-18 17:34:25.252 [main] LoggerLoad - User redirects to practice qns search array Page
+[INFO ] 2023-04-18 17:34:26.212 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-18 17:34:26.480 [main] LoggerLoad - User is on Data Structure Introduction Page
+[INFO ] 2023-04-18 17:34:26.522 [main] LoggerLoad - User is on Data Structure Introduction Page after login
+[INFO ] 2023-04-18 17:34:26.777 [main] LoggerLoad - User is on Data Structure Time Complexity
+[INFO ] 2023-04-18 17:34:29.282 [main] LoggerLoad - data structure phython code run success
+[INFO ] 2023-04-18 17:34:30.051 [main] LoggerLoad - User is on home page
+[INFO ] 2023-04-18 17:34:51.458 [main] LoggerLoad - User opens with Invalid username
+[INFO ] 2023-04-18 17:35:05.731 [main] LoggerLoad - User opens with Invalid password
+[INFO ] 2023-04-18 17:35:16.081 [main] LoggerLoad - User opens with Invalid confirm pwd
+[INFO ] 2023-04-18 17:35:26.987 [main] LoggerLoad - User opens valid credentials
+[INFO ] 2023-04-18 17:38:31.793 [main] LoggerLoad - Test is running on chrome
+[INFO ] 2023-04-18 17:38:39.213 [main] LoggerLoad - Driver is Intialized
+[INFO ] 2023-04-18 17:38:40.876 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-18 17:38:41.183 [main] LoggerLoad - User redirects to array Page
+[INFO ] 2023-04-18 17:38:41.328 [main] LoggerLoad - User is array phython Page
+[INFO ] 2023-04-18 17:38:44.190 [main] LoggerLoad - User runs code successfully
+[INFO ] 2023-04-18 17:38:44.897 [main] LoggerLoad - User redirects to practice qns search array Page
+[INFO ] 2023-04-18 17:38:45.848 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-18 17:38:46.101 [main] LoggerLoad - User is on Data Structure Introduction Page
+[INFO ] 2023-04-18 17:38:46.137 [main] LoggerLoad - User is on Data Structure Introduction Page after login
+[INFO ] 2023-04-18 17:38:46.376 [main] LoggerLoad - User is on Data Structure Time Complexity
+[INFO ] 2023-04-18 17:38:48.955 [main] LoggerLoad - data structure phython code run success
+[INFO ] 2023-04-18 17:38:50.423 [main] LoggerLoad - User is on home page
+[INFO ] 2023-04-18 17:39:12.579 [main] LoggerLoad - User opens with Invalid username
+[INFO ] 2023-04-18 17:39:25.062 [main] LoggerLoad - User opens with Invalid password
+[INFO ] 2023-04-18 17:39:35.286 [main] LoggerLoad - User opens with Invalid confirm pwd
+[INFO ] 2023-04-18 17:39:45.363 [main] LoggerLoad - User opens valid credentials
+[INFO ] 2023-04-18 18:01:50.774 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-18 18:01:51.078 [main] LoggerLoad - User redirects to array Page
+[INFO ] 2023-04-18 18:01:56.661 [main] LoggerLoad - User is array phython Page
+[INFO ] 2023-04-18 18:01:58.055 [main] LoggerLoad - User runs code successfully
+[INFO ] 2023-04-18 18:02:05.871 [main] LoggerLoad - User redirects to practice qns search array Page
+[INFO ] 2023-04-18 18:02:14.619 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-18 18:02:14.928 [main] LoggerLoad - User is on Data Structure Introduction Page
+[INFO ] 2023-04-18 18:02:20.580 [main] LoggerLoad - User is on Data Structure Introduction Page after login
+[INFO ] 2023-04-18 18:02:20.803 [main] LoggerLoad - User is on Data Structure Time Complexity
+[INFO ] 2023-04-18 18:02:23.999 [main] LoggerLoad - data structure phython code run success
+[INFO ] 2023-04-18 18:02:44.701 [main] LoggerLoad - User is on home page
+[INFO ] 2023-04-18 18:02:56.460 [main] LoggerLoad - User opened DS Algo URL and is trying to Registrer
+[INFO ] 2023-04-18 18:02:59.020 [main] LoggerLoad - Please fill out this field
+[INFO ] 2023-04-18 18:03:12.928 [main] LoggerLoad - User opens with Invalid username
+[INFO ] 2023-04-18 18:03:17.008 [main] LoggerLoad - User is trying with Invalid username
+[INFO ] 2023-04-18 18:03:35.782 [main] LoggerLoad - User opens with Invalid password
+[INFO ] 2023-04-18 18:03:38.556 [main] LoggerLoad - User is trying with Invalid password
+[INFO ] 2023-04-18 18:03:55.981 [main] LoggerLoad - User opens with Invalid confirm pwd
+[INFO ] 2023-04-18 18:03:59.850 [main] LoggerLoad - User is trying with Invalid confirm pwd
+[INFO ] 2023-04-18 18:04:07.738 [main] LoggerLoad - User opens valid credentials
+[INFO ] 2023-04-18 18:04:09.152 [main] LoggerLoad - User successfully created New Account
+[INFO ] 2023-04-18 18:08:01.960 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-18 18:08:02.310 [main] LoggerLoad - User redirects to array Page
+[INFO ] 2023-04-18 18:08:05.745 [main] LoggerLoad - User is array phython Page
+[INFO ] 2023-04-18 18:08:07.167 [main] LoggerLoad - User runs code successfully
+[INFO ] 2023-04-18 18:08:11.141 [main] LoggerLoad - User redirects to practice qns search array Page
+[INFO ] 2023-04-18 18:08:18.664 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-18 18:08:19.311 [main] LoggerLoad - User is on Data Structure Introduction Page
+[INFO ] 2023-04-18 18:08:29.268 [main] LoggerLoad - User is on Data Structure Introduction Page after login
+[INFO ] 2023-04-18 18:08:30.087 [main] LoggerLoad - User is on Data Structure Time Complexity
+[INFO ] 2023-04-18 18:08:33.170 [main] LoggerLoad - data structure phython code run success
+[INFO ] 2023-04-18 18:08:53.599 [main] LoggerLoad - User is on home page
+[INFO ] 2023-04-18 18:09:04.611 [main] LoggerLoad - User opened DS Algo URL and is trying to Registrer
+[INFO ] 2023-04-18 18:09:07.171 [main] LoggerLoad - Please fill out this field
+[INFO ] 2023-04-18 18:09:18.700 [main] LoggerLoad - User opens with Invalid username
+[INFO ] 2023-04-18 18:09:52.504 [main] LoggerLoad - User is trying with Invalid username
+[INFO ] 2023-04-18 18:10:02.783 [main] LoggerLoad - User opens with Invalid password
+[INFO ] 2023-04-18 18:10:05.852 [main] LoggerLoad - User is trying with Invalid password
+[INFO ] 2023-04-18 18:10:15.700 [main] LoggerLoad - User opens with Invalid confirm pwd
+[INFO ] 2023-04-18 18:10:17.625 [main] LoggerLoad - User is trying with Invalid confirm pwd
+[INFO ] 2023-04-18 18:10:28.353 [main] LoggerLoad - User opens valid credentials
+[INFO ] 2023-04-18 18:10:29.390 [main] LoggerLoad - User successfully created New Account
+[INFO ] 2023-04-18 20:31:24.610 [main] LoggerLoad - User opened DS Algo URL and is trying to Registrer
+[INFO ] 2023-04-18 20:31:28.101 [main] LoggerLoad - Please fill out this field
+[INFO ] 2023-04-18 20:31:35.715 [main] LoggerLoad - User opens with Invalid username
+[INFO ] 2023-04-18 20:31:39.162 [main] LoggerLoad - User is trying with Invalid username
+[INFO ] 2023-04-18 20:31:45.787 [main] LoggerLoad - User opens with Invalid password
+[INFO ] 2023-04-18 20:31:48.754 [main] LoggerLoad - User is trying with Invalid password
+[INFO ] 2023-04-18 20:32:00.940 [main] LoggerLoad - User opens with Invalid confirm pwd
+[INFO ] 2023-04-18 20:32:02.532 [main] LoggerLoad - User is trying with Invalid confirm pwd
+[INFO ] 2023-04-18 20:32:17.543 [main] LoggerLoad - User opens valid credentials
+[INFO ] 2023-04-18 20:32:19.379 [main] LoggerLoad - User successfully created New Account
+[INFO ] 2023-04-18 20:32:30.845 [main] LoggerLoad - User is on home page
+[INFO ] 2023-04-18 20:32:49.905 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-26 11:42:34.189 [main] LoggerLoad - User opens with Invalid username
+[INFO ] 2023-04-26 11:43:00.663 [main] LoggerLoad - User opens with Invalid confirm pwd
+[INFO ] 2023-04-26 11:44:43.995 [main] LoggerLoad - User opens with Invalid username
+[INFO ] 2023-04-26 11:46:35.016 [main] LoggerLoad - User opens with Invalid username
+[INFO ] 2023-04-26 11:47:10.964 [main] LoggerLoad - User opens with Invalid password
+[INFO ] 2023-04-26 11:47:45.560 [main] LoggerLoad - User opens with Invalid confirm pwd
+[INFO ] 2023-04-26 11:48:21.941 [main] LoggerLoad - User opens valid credentials
+[INFO ] 2023-04-26 11:48:56.561 [main] LoggerLoad - User is on home page
+[INFO ] 2023-04-26 11:49:30.842 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-26 11:50:05.413 [main] LoggerLoad - User is on Data Structure Introduction Page after login
+[INFO ] 2023-04-26 11:50:39.989 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-26 11:51:12.926 [main] LoggerLoad - User is array phython Page
+[INFO ] 2023-04-26 11:52:23.010 [main] LoggerLoad - User is on Home page
+[INFO ] 2023-04-26 11:53:30.366 [main] LoggerLoad - User is sending code
+[INFO ] 2023-04-26 11:54:03.355 [main] LoggerLoad - User is on Linked List page
+[INFO ] 2023-04-26 11:55:08.268 [main] LoggerLoad - user is on Home Page after Linked List
+[INFO ] 2023-04-26 11:55:41.293 [main] LoggerLoad - user checking functionality
+[INFO ] 2023-04-26 11:56:47.108 [main] LoggerLoad - User is on Home page after Stack
+[INFO ] 2023-04-26 11:57:21.415 [main] LoggerLoad - user is on operation in Queue page
+[INFO ] 2023-04-26 11:58:27.303 [main] LoggerLoad - User is on home page after Queue operation
+[INFO ] 2023-04-26 11:59:00.218 [main] LoggerLoad - User is on Tree page
+[INFO ] 2023-04-26 12:01:14.528 [main] LoggerLoad - User is on Tree Page
+[INFO ] 2023-04-26 12:02:36.393 [main] LoggerLoad - User is on Home page
+[INFO ] 2023-04-26 12:03:11.843 [main] LoggerLoad - User checking Graph operation
+[INFO ] 2023-04-26 12:04:21.490 [main] LoggerLoad - User is on Graph
+[INFO ] 2023-04-26 12:05:31.707 [main] LoggerLoad - User is on Home page
+[INFO ] 2023-04-26 14:09:05.620 [main] LoggerLoad - Test is running on chrome
+[INFO ] 2023-04-26 14:09:05.624 [main] LoggerLoad - Driver is Intialized
+[INFO ] 2023-04-26 14:09:08.087 [main] LoggerLoad - User opened DS Algo URL and is trying to Registrer
+[INFO ] 2023-04-26 14:09:10.534 [main] LoggerLoad - Please fill out this field
+[INFO ] 2023-04-26 14:09:10.752 [main] LoggerLoad - User opens with Invalid username
+[INFO ] 2023-04-26 14:09:13.531 [main] LoggerLoad - User is trying with Invalid username
+[INFO ] 2023-04-26 14:09:13.754 [main] LoggerLoad - User opens with Invalid password
+[INFO ] 2023-04-26 14:09:16.146 [main] LoggerLoad - User is trying with Invalid password
+[INFO ] 2023-04-26 14:09:16.349 [main] LoggerLoad - User opens with Invalid confirm pwd
+[INFO ] 2023-04-26 14:09:16.885 [main] LoggerLoad - User is trying with Invalid confirm pwd
+[INFO ] 2023-04-26 14:09:17.064 [main] LoggerLoad - User opens valid credentials
+[INFO ] 2023-04-26 14:09:17.728 [main] LoggerLoad - User successfully created New Account
+[INFO ] 2023-04-26 14:09:17.986 [main] LoggerLoad - User is on home page
+[INFO ] 2023-04-26 14:09:20.505 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-26 14:09:20.738 [main] LoggerLoad - User is on Data Structure Introduction Page
+[INFO ] 2023-04-26 14:09:20.772 [main] LoggerLoad - User is on Data Structure Introduction Page after login
+[INFO ] 2023-04-26 14:09:20.966 [main] LoggerLoad - User is on Data Structure Time Complexity
+[INFO ] 2023-04-26 14:09:24.043 [main] LoggerLoad - data structure phython code run success
+[INFO ] 2023-04-26 14:09:24.201 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-26 14:09:24.399 [main] LoggerLoad - User redirects to array Page
+[INFO ] 2023-04-26 14:09:24.424 [main] LoggerLoad - User is array phython Page
+[INFO ] 2023-04-26 14:09:27.911 [main] LoggerLoad - User runs code successfully
+[INFO ] 2023-04-26 14:09:29.137 [main] LoggerLoad - User redirects to practice qns search array Page
+[INFO ] 2023-04-26 14:09:29.342 [main] LoggerLoad - User is on Home page
+[INFO ] 2023-04-26 14:09:29.611 [main] LoggerLoad - User is on Linked List page
+[INFO ] 2023-04-26 14:09:29.933 [main] LoggerLoad - User is on Introduction Linked List Page
+[INFO ] 2023-04-26 14:09:30.163 [main] LoggerLoad - User is on page having tryeditor with run button
+[INFO ] 2023-04-26 14:09:30.209 [main] LoggerLoad - User is sending code
+[INFO ] 2023-04-26 14:09:30.517 [main] LoggerLoad - User received output
+[INFO ] 2023-04-26 14:09:30.657 [main] LoggerLoad - User is on Linked List page
+[INFO ] 2023-04-26 14:09:30.873 [main] LoggerLoad - User is on creating Linked List page
+[INFO ] 2023-04-26 14:09:31.095 [main] LoggerLoad - user navigate to tryeditor and run button
+[INFO ] 2023-04-26 14:09:32.519 [main] LoggerLoad - user is on Home Page after Linked List
+[INFO ] 2023-04-26 14:09:32.724 [main] LoggerLoad - User os on Stack Page
+[INFO ] 2023-04-26 14:09:32.762 [main] LoggerLoad - user checking functionality
+[INFO ] 2023-04-26 14:09:33.230 [main] LoggerLoad - User is on tryeditor page
+[INFO ] 2023-04-26 14:09:34.497 [main] LoggerLoad - User get Output
+[INFO ] 2023-04-26 14:09:34.644 [main] LoggerLoad - User is on Home page after Stack
+[INFO ] 2023-04-26 14:09:36.858 [main] LoggerLoad - User is on Queue page
+[INFO ] 2023-04-26 14:09:36.878 [main] LoggerLoad - user is on operation in Queue page
+[INFO ] 2023-04-26 14:09:37.315 [main] LoggerLoad - User is on tryeditor page
+[INFO ] 2023-04-26 14:09:38.580 [main] LoggerLoad - User is got the output of the code
+[INFO ] 2023-04-26 14:09:39.081 [main] LoggerLoad - User is on home page after Queue operation
+[INFO ] 2023-04-26 14:09:39.323 [main] LoggerLoad - User is on Tree Page
+[INFO ] 2023-04-26 14:09:39.343 [main] LoggerLoad - User is on Tree page
+[INFO ] 2023-04-26 14:09:39.801 [main] LoggerLoad - User can enter code
+[INFO ] 2023-04-26 14:09:41.092 [main] LoggerLoad - User get Output
+[INFO ] 2023-04-26 14:09:41.749 [main] LoggerLoad - User Redirected to Try Editor
+[INFO ] 2023-04-26 14:09:43.008 [main] LoggerLoad - User get Output for Terminologies
+[INFO ] 2023-04-26 14:09:43.178 [main] LoggerLoad - User is on Tree Page
+[INFO ] 2023-04-26 14:09:43.633 [main] LoggerLoad - User is on Try Editor Page
+[INFO ] 2023-04-26 14:09:44.874 [main] LoggerLoad - User get Output
+[INFO ] 2023-04-26 14:09:45.021 [main] LoggerLoad - User is on Home page
+[INFO ] 2023-04-26 14:09:45.238 [main] LoggerLoad - User is on Graph Page
+[INFO ] 2023-04-26 14:09:45.257 [main] LoggerLoad - User checking Graph operation
+[INFO ] 2023-04-26 14:09:45.787 [main] LoggerLoad - User checking Text area
+[INFO ] 2023-04-26 14:09:47.241 [main] LoggerLoad - User get Output
+[INFO ] 2023-04-26 14:09:47.385 [main] LoggerLoad - User is on Graph
+[INFO ] 2023-04-26 14:09:47.954 [main] LoggerLoad - User checking try Editor
+[INFO ] 2023-04-26 14:09:49.221 [main] LoggerLoad - User get Output
+[INFO ] 2023-04-26 14:09:49.343 [main] LoggerLoad - User is on Home page
+[INFO ] 2023-04-26 14:09:49.570 [main] LoggerLoad - User successfully Sign Out from DS algo
+[INFO ] 2023-04-26 14:10:37.785 [main] LoggerLoad - Test is running on chrome
+[INFO ] 2023-04-26 14:10:37.811 [main] LoggerLoad - Driver is Intialized
+[INFO ] 2023-04-26 14:10:44.344 [main] LoggerLoad - User opened DS Algo URL and is trying to Registrer
+[INFO ] 2023-04-26 14:10:46.864 [main] LoggerLoad - Please fill out this field
+[INFO ] 2023-04-26 14:10:47.135 [main] LoggerLoad - User opens with Invalid username
+[INFO ] 2023-04-26 14:10:50.172 [main] LoggerLoad - User is trying with Invalid username
+[INFO ] 2023-04-26 14:10:52.208 [main] LoggerLoad - User opens with Invalid password
+[INFO ] 2023-04-26 14:10:54.798 [main] LoggerLoad - User is trying with Invalid password
+[INFO ] 2023-04-26 14:10:56.024 [main] LoggerLoad - User opens with Invalid confirm pwd
+[INFO ] 2023-04-26 14:10:56.765 [main] LoggerLoad - User is trying with Invalid confirm pwd
+[INFO ] 2023-04-26 14:10:56.994 [main] LoggerLoad - User opens valid credentials
+[INFO ] 2023-04-26 14:10:57.854 [main] LoggerLoad - User successfully created New Account
+[INFO ] 2023-04-26 14:10:58.176 [main] LoggerLoad - User is on home page
+[INFO ] 2023-04-26 14:11:01.312 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-26 14:11:01.570 [main] LoggerLoad - User is on Data Structure Introduction Page
+[INFO ] 2023-04-26 14:11:01.633 [main] LoggerLoad - User is on Data Structure Introduction Page after login
+[INFO ] 2023-04-26 14:11:01.882 [main] LoggerLoad - User is on Data Structure Time Complexity
+[INFO ] 2023-04-26 14:11:04.912 [main] LoggerLoad - data structure phython code run success
+[INFO ] 2023-04-26 14:11:05.146 [main] LoggerLoad - User is Home  Page
+[INFO ] 2023-04-26 14:11:05.449 [main] LoggerLoad - User redirects to array Page
+[INFO ] 2023-04-26 14:11:05.522 [main] LoggerLoad - User is array phython Page
+[INFO ] 2023-04-26 14:11:06.491 [main] LoggerLoad - User runs code successfully
+[INFO ] 2023-04-26 14:11:07.238 [main] LoggerLoad - User redirects to practice qns search array Page
+[INFO ] 2023-04-26 14:11:07.428 [main] LoggerLoad - User is on Home page
+[INFO ] 2023-04-26 14:11:07.734 [main] LoggerLoad - User is on Linked List page
+[INFO ] 2023-04-26 14:11:08.089 [main] LoggerLoad - User is on Introduction Linked List Page
+[INFO ] 2023-04-26 14:11:09.434 [main] LoggerLoad - User is on page having tryeditor with run button
+[INFO ] 2023-04-26 14:11:09.470 [main] LoggerLoad - User is sending code
+[INFO ] 2023-04-26 14:11:09.830 [main] LoggerLoad - User received output
+[INFO ] 2023-04-26 14:11:10.028 [main] LoggerLoad - User is on Linked List page
+[INFO ] 2023-04-26 14:11:10.306 [main] LoggerLoad - User is on creating Linked List page
+[INFO ] 2023-04-26 14:11:10.626 [main] LoggerLoad - user navigate to tryeditor and run button
+[INFO ] 2023-04-26 14:11:12.359 [main] LoggerLoad - user is on Home Page after Linked List
+[INFO ] 2023-04-26 14:11:12.608 [main] LoggerLoad - User os on Stack Page
+[INFO ] 2023-04-26 14:11:12.655 [main] LoggerLoad - user checking functionality
+[INFO ] 2023-04-26 14:11:13.227 [main] LoggerLoad - User is on tryeditor page
+[INFO ] 2023-04-26 14:11:14.513 [main] LoggerLoad - User get Output
+[INFO ] 2023-04-26 14:11:14.665 [main] LoggerLoad - User is on Home page after Stack
+[INFO ] 2023-04-26 14:11:16.950 [main] LoggerLoad - User is on Queue page
+[INFO ] 2023-04-26 14:11:16.976 [main] LoggerLoad - user is on operation in Queue page
+[INFO ] 2023-04-26 14:11:17.487 [main] LoggerLoad - User is on tryeditor page
+[INFO ] 2023-04-26 14:11:18.769 [main] LoggerLoad - User is got the output of the code
+[INFO ] 2023-04-26 14:11:18.932 [main] LoggerLoad - User is on home page after Queue operation
+[INFO ] 2023-04-26 14:11:19.242 [main] LoggerLoad - User is on Tree Page
+[INFO ] 2023-04-26 14:11:19.282 [main] LoggerLoad - User is on Tree page
+[INFO ] 2023-04-26 14:11:19.836 [main] LoggerLoad - User can enter code
+[INFO ] 2023-04-26 14:11:21.162 [main] LoggerLoad - User get Output
+[INFO ] 2023-04-26 14:11:21.885 [main] LoggerLoad - User Redirected to Try Editor
+[INFO ] 2023-04-26 14:11:23.216 [main] LoggerLoad - User get Output for Terminologies
+[INFO ] 2023-04-26 14:11:23.451 [main] LoggerLoad - User is on Tree Page
+[INFO ] 2023-04-26 14:11:23.968 [main] LoggerLoad - User is on Try Editor Page
+[INFO ] 2023-04-26 14:11:25.230 [main] LoggerLoad - User get Output
+[INFO ] 2023-04-26 14:11:25.411 [main] LoggerLoad - User is on Home page
+[INFO ] 2023-04-26 14:11:25.649 [main] LoggerLoad - User is on Graph Page
+[INFO ] 2023-04-26 14:11:25.698 [main] LoggerLoad - User checking Graph operation
+[INFO ] 2023-04-26 14:11:26.198 [main] LoggerLoad - User checking Text area
+[INFO ] 2023-04-26 14:11:27.464 [main] LoggerLoad - User get Output
+[INFO ] 2023-04-26 14:11:27.598 [main] LoggerLoad - User is on Graph
+[INFO ] 2023-04-26 14:11:28.251 [main] LoggerLoad - User checking try Editor
+[INFO ] 2023-04-26 14:11:29.568 [main] LoggerLoad - User get Output
+[INFO ] 2023-04-26 14:11:29.779 [main] LoggerLoad - User is on Home page
+[INFO ] 2023-04-26 14:11:30.012 [main] LoggerLoad - User successfully Sign Out from DS algo

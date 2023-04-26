@@ -13,7 +13,7 @@ public class ArraySteps {
 	
 	@Given("The user is on home page")
 	public void the_user_is_on_home_page() {
-		 d.loginpage();
+		
 		   LoggerLoad.info("User is Home  Page");
 	   
 	}

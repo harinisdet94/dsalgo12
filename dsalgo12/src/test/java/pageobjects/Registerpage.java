@@ -31,7 +31,8 @@ public class Registerpage {
 	public Registerpage() {
 		PageFactory.initElements(driver, this);
 	}
-	public void url() {
+	public void url() throws InterruptedException {
+		Thread.sleep(1000);
 		driver.get(url);
 	}
 	

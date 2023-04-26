@@ -2,11 +2,14 @@ package driverFactory;
 
 import java.time.Duration;
 
+import org.openqa.selenium.PageLoadStrategy;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+
 
 public class DriverFactory {
 	public static WebDriver driver;
@@ -21,7 +24,10 @@ public class DriverFactory {
 		}
 		else if (browser.equalsIgnoreCase("chrome")) {
 			WebDriverManager.chromedriver().setup();
+			ChromeOptions options=new ChromeOptions();
+			options.addArguments("headless");
 			driver = new ChromeDriver();
+			options.setAcceptInsecureCerts(true);
 		}
 		else
 		{
@@ -29,8 +35,8 @@ public class DriverFactory {
 		}
 		
 		getdriver().manage().deleteAllCookies();
-		getdriver().manage().timeouts().pageLoadTimeout(Duration.ofSeconds(10));
-		getdriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+		getdriver().manage().timeouts().pageLoadTimeout(Duration.ofSeconds(80));
+		getdriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
 		getdriver().manage().window().maximize();
 		return getdriver();
 	

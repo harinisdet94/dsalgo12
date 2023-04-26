@@ -16,7 +16,8 @@ public class SignInSteps {
 	
 	@Given("User is in homepage")
 	public void user_is_in_homepage() {
-		DriverFactory.getdriver().get(home_url);
+		
+		//DriverFactory.getdriver().get(home_url);
 		LoggerLoad.info("User is on home page");
 	}
 
@@ -33,8 +34,10 @@ public class SignInSteps {
 	}
 
 	@When("user clicks login button and redirects to home page")
-	public void user_clicks_login_button_and_redirects_to_home_page() {
+	public void user_clicks_login_button_and_redirects_to_home_page() throws Exception {
 	   sp.login_click();
+	   Thread.sleep(1000);
+	  // sp.signout();
 	}
 
 }

@@ -1,6 +1,5 @@
 package stepdefinitions;
 
-import driverFactory.DriverFactory;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -14,8 +13,8 @@ public class Registersteps {
 	Registerpage regpage=new Registerpage();
 	
 	@Given("The user opens Register Page")
-	public void the_user_opens_register_page() {
-		regpage.url();
+	public void the_user_opens_register_page() throws InterruptedException {
+		//regpage.url();
 		regpage.register();
 		 LoggerLoad.info("User opened DS Algo URL and is trying to Registrer");
 	}
@@ -98,7 +97,7 @@ public class Registersteps {
 	@Then("User signs out from the account")
 	public void user_signs_out_from_the_account() {
 	    regpage.signout();
-	    DriverFactory.closedriver();
+	  //  DriverFactory.closedriver();
 	}
 
 	@Given("The user opens Register Page for Invalid username")
